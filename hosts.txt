@@ -32,8 +32,8 @@
 172.64.33.155 d.rutor.is
 
 # Project Zomboid b24 Map
-172.64.33.155 b42map.com
-172.64.33.155 b42map.com
+45.155.204.190 b42map.com
+95.182.120.241 b42map.com
 
 # AMD
 45.155.204.190 amd.com
