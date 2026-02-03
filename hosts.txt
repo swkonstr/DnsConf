@@ -31,6 +31,10 @@
 172.64.33.155 d.rutor.info
 172.64.33.155 d.rutor.is
 
+# Project Zomboid b24 Map
+172.64.33.155 b24map.com
+172.64.33.155 b24map.com
+
 # AMD
 45.155.204.190 amd.com
 95.182.120.241 amd.com
