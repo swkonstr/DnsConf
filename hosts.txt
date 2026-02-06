@@ -35,6 +35,10 @@
 45.155.204.190 b42map.com
 95.182.120.241 b42map.com
 
+# cloudflare
+45.155.204.190 cloudflare.com
+95.182.120.241 cloudflare.com
+
 # AMD
 45.155.204.190 amd.com
 95.182.120.241 amd.com
