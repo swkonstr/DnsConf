@@ -38,6 +38,8 @@
 # cloudflare
 45.155.204.190 cloudflare.com
 95.182.120.241 cloudflare.com
+45.155.204.190 maven.neoforged.net
+95.182.120.241 maven.neoforged.net
 
 # AMD
 45.155.204.190 amd.com
