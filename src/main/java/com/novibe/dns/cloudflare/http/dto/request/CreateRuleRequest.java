@@ -12,6 +12,7 @@ public record CreateRuleRequest(String name,
                                 String action,
                                 List<String> filters,
                                 String traffic,
+                                int precedence,
                                 @SerializedName("rule_settings")
                                 RuleSettings ruleSettings,
                                 boolean enabled)
